@@ -1,5 +1,7 @@
 # Top Cities To Own and Electric Car
 
+Final presentation and project write-up documents are in the 'Findings' folder
+
 ## Census
 
 Our program starts by executing the Census_Population.ipynb file in the Census folder. This notebook performs the following operations:
