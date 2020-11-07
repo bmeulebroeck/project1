@@ -1,4 +1,4 @@
-# Top Cities To Own and Electric Car
+# Top Cities To Own an Electric Car
 
 Final presentation and project write-up documents are in the 'Findings' folder
 
